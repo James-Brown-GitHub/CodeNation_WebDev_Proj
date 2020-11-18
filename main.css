@@ -1,6 +1,6 @@
 .body_index {
     background: #BF914B;
-    background-image: url("./Images/candle_bg.jpg");
+    background-image: url("candle_bg.jpg");
     background-size: 100%;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22.5px;
@@ -10,7 +10,7 @@ body {
     background: #BF914B;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22.5px;
-    background-image: url("./Images/candle_bg.jpg");
+    background-image: url("./candle_bg.jpg");
     background-size: 100%;
     }
 
